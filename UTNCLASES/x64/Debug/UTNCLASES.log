@@ -1,0 +1,3 @@
+﻿  UTNCLASES.cpp
+D:\PROYECTOS UTN\UTNCLASES\UTNCLASES\UTNCLASES.cpp(16,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  UTNCLASES.vcxproj -> D:\PROYECTOS UTN\UTNCLASES\x64\Debug\UTNCLASES.exe
